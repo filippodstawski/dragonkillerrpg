@@ -1,0 +1,58 @@
+Dragon Killer v 0.1
+Świetna gra konsolowa RPG
+
+JAK GRAĆ?
+
+W grze poruszasz się za pomocą konsolowych komend.
+
+W aktywnej linii wpisujesz odpowiednią opcję z możliwości
+
+W menu jest to łatwe, masz do wyboru kilka opcji nawigacji
+
+Podczas przebiegu rozgrywki w konsoli wyświetla się lista możliwych opcji, a także dokładny opis tego co widzisz
+
+1) PORUSZANIE
+
+Poruszasz się za pomocą komendy "go" + kierunek gdzie chcesz iść (w, s, a, d)
+
+Czyli polecenie w konsoli wygląda np tak:
+go w
+
+2) ZBIERANIE I UŻYCIE PRZEDMIOTÓW
+
+W konsoli wyświetla się też dokładny opis miejsca na którym stoisz
+Mogą się tam znajdować różne przedmioty, mikstury życia, uzbrojenie itd
+
+Widzisz listę tych przedmitów np
+1) Shost sword
+
+Podnosisz przedmiot wpisują komendę "get" i numer opcji
+
+Czyli polecenie w konsoli wygląda np tak:
+get 1
+
+Wyświetla się też Twój dokładny inwentarz np
+1) Mana potion
+2) Short sword
+
+Jeśli chcesz użyć przedmiotu używasz komendy "use"  i numer opcji
+
+Czyli polecenia w konsoli wygląda tak:
+use 2
+
+3) WALKA
+
+Jeśli na polu znajduje się przeciwnik dostajesz o tym informację
+Masz możliwość zaatakowania go używają polecenia "attack"
+
+Czyli polecenie w konsoli wygląda np tak:
+attack
+
+Pomiędzy kolejnymi ciosami możesz użyć też polecenia "use" by wykorzystać np miksturę życia
+
+4) ZAPIS GRY
+
+Grę można zapisać za pomocą komendy save
+
+Czyli polecenia w konsoli wygląda tak:
+save
