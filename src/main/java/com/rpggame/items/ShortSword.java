@@ -19,6 +19,6 @@ public class ShortSword extends Weapon {
 
     @Override
     public String getName() {
-        return "ShortSword";
+        return "Short Sword";
     }
 }
